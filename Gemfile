@@ -9,6 +9,7 @@ gem 'discordrb',       require: 'discordrb'
 gem 'activesupport',   require: 'active_support/all'
 # gem 'sinatra',         require: 'sinatra/base'
 # gem 'sinatra-contrib'
+gem 'rake'
 
 group :development, :test do
   gem 'pry-byebug'
